@@ -1,0 +1,120 @@
+{
+"comment":"Важно придерживаться синтаксиса. Проверка json на валидность https://tools.icoder.uz/json-validator.php",
+"comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
+"comment02":"Данные подаються в виде ключ-значение , ключ не должен дублироваться , это приводит к ошибке",
+
+  "method":"organic",
+  
+ 
+ 
+ "no_of_banners":"4",
+ "banner_1":"https://appsunit.shn-host.ru/bot_img/27.jpg",
+ 
+ 
+  "banner_2":"https://appsunit.shn-host.ru/bot_img/21.png",
+ 
+ 
+  "banner_3":"https://appsunit.shn-host.ru/bot_img/35_bananz.jpg",
+ 
+ 
+  "banner_4":"https://appsunit.shn-host.ru/bot_img/38_Gods_of_Death.jpg",
+ 
+ 
+ 
+ "----------------------------------------------":"--------------------------------------------------------------", 
+ 
+ 
+  
+  
+  "offer_link_1":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic?",
+  "offer_image_1":"https://appsunit.shn-host.ru/bot_img/1.png",
+  "offer_rating_1":"9.2",
+  "button_text_1":"Playy",
+  "time_icom_text_1":"1Tiempo de procesamiento",
+  "offer_timedeprocess_1":"124 hours",
+  "offer_description_1":"1the best casino.com",
+  "offer_deposit_text_1":"1Deposit",
+  "offer_deposit_1":"110$",
+  "ofer_witherawal_text_1":"1Withdrawal", 
+  "offer_withdrawal_1":"110 000$",
+  "ofer_sistemadepa_text_1":"1Sistema depa",
+  "offer_sistemadepa_1":"120 +",
+    "webview_title_1":"webview_title 1",
+  
+  
+ 
+   "offer_link_2":"https://pin-up.ua/?",
+  "offer_image_2":"https://appsunit.shn-host.ru/bot_img/2.png",
+  "offer_rating_2":"9",
+  "button_text_2":"Play",
+  "time_icom_text_2":"Tiempo de procesamiento",
+  "offer_timedeprocess_2":"24 hours",
+  "offer_description_2":"the best casino.com",
+  "offer_deposit_text_2":"Deposit",
+  "offer_deposit_2":"10$",
+  "ofer_witherawal_text_2":"Withdrawal", 
+  "offer_withdrawal_2":"10 000$",
+  "ofer_sistemadepa_text_2":"Sistema depa",
+  "offer_sistemadepa_2":"20 +",
+   "webview_title_2":"webview_title 2",
+  
+   
+  
+  
+  
+  
+  
+ 
+   
+ 
+ 
+"usecontry":"au,at,az,ar,bd,by,bg,br,hu,de,gr,es,it,kz,ca,co,mx,ng,nl,nz,no,pe,pl,pt,ru,ro,sk,si,tr,uz,hr,cz,cl,ch,se,ee,sa,ua",
+"au":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"at":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"az":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"ar":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"bd":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"by":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"bg":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"br":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"hu":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"de":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"gr":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"es":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"it":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"kz":"1,2",
+"ca":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"co":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"mx":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"ng":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"nl":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"nz":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"no":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"pe":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"pl":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"pt":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"ru":"1,2",
+"ro":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"sk":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"si":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"tr":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"uz":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"hr":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"cz":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"cl":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"ch":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"se":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"ee":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"sa":"https://mediastp.com/QgNBY3Xs?ad_campaign_id=organic",
+"ua":"1,2",
+
+
+
+"comment11":"Administation param",
+   "telegram_support":"soul_808",
+ 
+   "one_signal_id":"d95b3f53-1a0e-4106-8f96-41de2d733f63",
+   "encode_key":"b4bbd380791e00a453ea87e06cc29bf56dbbf942f63148ed5d135f8e51bedc34"
+ 
+}
+ 
