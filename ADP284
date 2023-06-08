@@ -28,7 +28,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"au,at,az,ar,by,bg,br,hu,de,gr,es,it,kz,ca,co,mx,ng,nl,nz,no,pe,pl,pt,ru,ro,sk,si,tr,uz,hr,cz,cl,ch,se,ee,sa",
+ "usecontry":"au,at,az,ar,by,bg,br,hu,de,gr,es,it,kz,ca,co,mx,ng,nl,nz,no,pe,pl,pt,ru,ro,sk,si,tr,ua,uz,hr,cz,cl,ch,se,ee,sa",
    "au":"https://mediastp.com/adp284olimpbetstavki?ad_campaign_id=organic",
    "at":"https://mediastp.com/adp284olimpbetstavki?ad_campaign_id=organic",
    "az":"https://mediastp.com/adp284olimpbetstavki?ad_campaign_id=organic",
@@ -57,6 +57,7 @@
    "sk":"https://mediastp.com/adp284olimpbetstavki?ad_campaign_id=organic",
    "si":"https://mediastp.com/adp284olimpbetstavki?ad_campaign_id=organic",
    "tr":"https://mediastp.com/adp284olimpbetstavki?ad_campaign_id=organic",
+   "ua":"https://mediastp.com/adp284olimpbetstavki?ad_campaign_id=organic",
    "uz":"https://mediastp.com/adp284olimpbetstavki?ad_campaign_id=organic",
    "hr":"https://mediastp.com/adp284olimpbetstavki?ad_campaign_id=organic",
    "cz":"https://mediastp.com/adp284olimpbetstavki?ad_campaign_id=organic",
