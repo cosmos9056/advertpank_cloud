@@ -28,13 +28,11 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"ua,br,pl,by",
+ "usecontry":" ",
    "au":"https://mediastp.com/adv379pingames?ad_campaign_id=organic&",
    "br":"https://mediastp.com/adv379pingames?ad_campaign_id=organic&",
    "ua":"https://pin-up.ua",
    "kz":"https://pin-up.ua",
-   "pl":"https://mediastp.com/adv379pingames?ad_campaign_id=organic&",
-   "by":"https://mediastp.com/adv379pingames?ad_campaign_id=organic&",
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
