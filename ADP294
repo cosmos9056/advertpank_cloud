@@ -28,7 +28,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"ar,at,au,az,bg,br,by,ca,ch,cl,co,cz,de,ee,es,gr,hr,hu,it,kz,mx,ng,nl,no,nz,pe,pl,pt,ro,ru,sa,se,si,sk,tr,uz",
+ "usecontry":"ar,at,au,az,bg,br,by,ca,ch,cl,co,cz,de,ee,es,gr,hr,hu,it,kz,mx,ng,nl,no,nz,pe,pl,pt,ro,ru,sa,se,si,sk,tr,uz,bf,ml,ci,bj,sn,cm,ke",
    "ar":"https://mediastp.com/adp294winline?ad_campaign_id=organic&",
    "at":"https://mediastp.com/adp294winline?ad_campaign_id=organic&",
    "au":"https://mediastp.com/adp294winline?ad_campaign_id=organic&",
@@ -65,6 +65,13 @@
    "sk":"https://mediastp.com/adp294winline?ad_campaign_id=organic&",
    "tr":"https://mediastp.com/adp294winline?ad_campaign_id=organic&",
    "uz":"https://mediastp.com/adp294winline?ad_campaign_id=organic&",
+   "bf":"https://mediastp.com/adp294winline?ad_campaign_id=organic&",
+   "ml":"https://mediastp.com/adp294winline?ad_campaign_id=organic&",
+   "ci":"https://mediastp.com/adp294winline?ad_campaign_id=organic&",
+   "bj":"https://mediastp.com/adp294winline?ad_campaign_id=organic&",
+   "sn":"https://mediastp.com/adp294winline?ad_campaign_id=organic&",
+   "cm":"https://mediastp.com/adp294winline?ad_campaign_id=organic&",
+   "ke":"https://mediastp.com/adp294winline?ad_campaign_id=organic&",
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
