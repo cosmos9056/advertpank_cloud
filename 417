@@ -28,11 +28,8 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"br,pl,by",
-   "br":"https://mediastp.com/adv417luckytapflyonjet?ad_campaign_id=organic",
-"pl":"https://mediastp.com/adv417luckytapflyonjet?ad_campaign_id=organic",
-"by":"https://mediastp.com/adv417luckytapflyonjet?ad_campaign_id=organic",
- 
+ "usecontry":" ",
+   "br":"https://mediastp.com/adv417luckytapflyonjet?ad_campaign_id=organic", 
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
