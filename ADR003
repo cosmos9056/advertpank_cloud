@@ -28,10 +28,11 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"ua",
- 
-   "ua":"https://pin-up.ua",
- 
+ "usecontry":"ua,br,pl,by",
+   "ua":"https://mediastp.com/adr003pinupcard?ad_campaign_id=organic&",
+ "br":"https://mediastp.com/adr003pinupcard?ad_campaign_id=organic&",
+ "pl":"https://mediastp.com/adr003pinupcard?ad_campaign_id=organic&",
+ "by":"https://mediastp.com/adr003pinupcard?ad_campaign_id=organic&",
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
